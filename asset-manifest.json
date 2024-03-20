@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-tailwind/static/css/main.f970bcb0.css",
+    "main.js": "/react-portfolio-tailwind/static/js/main.ab9bc73f.js",
+    "static/media/about.png": "/react-portfolio-tailwind/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/react-portfolio-tailwind/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/resume.jpg": "/react-portfolio-tailwind/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/ecommerce-websites.jpg": "/react-portfolio-tailwind/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
+    "static/media/website-blog.jpg": "/react-portfolio-tailwind/static/media/website-blog.34169abf2d417858685b.jpg",
+    "index.html": "/react-portfolio-tailwind/index.html",
+    "main.f970bcb0.css.map": "/react-portfolio-tailwind/static/css/main.f970bcb0.css.map",
+    "main.ab9bc73f.js.map": "/react-portfolio-tailwind/static/js/main.ab9bc73f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f970bcb0.css",
+    "static/js/main.ab9bc73f.js"
+  ]
+}
